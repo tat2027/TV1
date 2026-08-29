@@ -90,7 +90,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-fateh-vs-al-ittihad-live"
+            "UrlSlug": "saudi-pro-league--al-fateh-vs-al-ittihad-live", 
         },
         {
             "EntityId": 16432,
@@ -104,7 +104,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "poland-vs-kosovo-live"
+            "UrlSlug": "poland-vs-kosovo-live", 
         },
         {
             "EntityId": 16435,
@@ -118,7 +118,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "albania-vs-uruguay-live"
+            "UrlSlug": "albania-vs-uruguay-live", 
         },
         {
             "EntityId": 16114,
@@ -132,7 +132,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 827,
-            "UrlSlug": "laliga--sevilla-vs-athletico-madrid-live"
+            "UrlSlug": "laliga--sevilla-vs-athletico-madrid-live", 
         },
         {
             "EntityId": 16438,
@@ -146,7 +146,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "italy-vs-peru-live"
+            "UrlSlug": "italy-vs-peru-live", 
         },
         {
             "EntityId": 15795,
@@ -160,7 +160,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 731,
-            "UrlSlug": "trinbago-knight-riders-vs-jamaica-kingsmen-20th-t20-live"
+            "UrlSlug": "trinbago-knight-riders-vs-jamaica-kingsmen-20th-t20-live", 
         },
         {
             "EntityId": 16354,
@@ -174,7 +174,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 464,
-            "UrlSlug": "men's-final-session---guiyang,-china-live"
+            "UrlSlug": "men's-final-session---guiyang,-china-live", 
         },
         {
             "EntityId": 16441,
@@ -188,7 +188,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "iraq-vs-belgium-live"
+            "UrlSlug": "iraq-vs-belgium-live", 
         },
         {
             "EntityId": 16816,
@@ -202,7 +202,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mazda-mx-5-benelux-race-2"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-mazda-mx-5-benelux-race-2", 
         },
         {
             "EntityId": 16822,
@@ -216,7 +216,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---qualifiying-1-2-and-3"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---qualifiying-1-2-and-3", 
         },
         {
             "EntityId": 16444,
@@ -230,7 +230,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "indonesia-vs-argentina-live"
+            "UrlSlug": "indonesia-vs-argentina-live", 
         },
         {
             "EntityId": 16360,
@@ -244,7 +244,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 464,
-            "UrlSlug": "women's-final-session---guiyang,-china-live"
+            "UrlSlug": "women's-final-session---guiyang,-china-live", 
         },
         {
             "EntityId": 16447,
@@ -258,7 +258,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "turkiye-vs-kazakhstan-live"
+            "UrlSlug": "turkiye-vs-kazakhstan-live", 
         },
         {
             "EntityId": 16828,
@@ -271,7 +271,7 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1788013806540456.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 371,
+            "CategoryId": 371
             "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt3-revival-series---race-2"
         },
         {
@@ -300,7 +300,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "libya-vs-latvia-live"
+            "UrlSlug": "libya-vs-latvia-live", 
         },
         {
             "EntityId": 16453,
@@ -314,7 +314,7 @@
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 889,
-            "UrlSlug": "australia-vs-france-live"
+            "UrlSlug": "australia-vs-france-live", 
         }
     ]
         }
