@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Channel 0001
-https://playlist.ssyar.workers.dev/01.m3u8
-#EXTINF:-1,Channel 0002
-https://playlist.ssyar.workers.dev/02.m3u8
-#EXTINF:-1,Channel 0003
-https://playlist.ssyar.workers.dev/03.m3u8
-#EXTINF:-1,Channel 0004
-https://playlist.ssyar.workers.dev/04.m3u8
-#EXTINF:-1,Channel 0005
-https://playlist.ssyar.workers.dev/05.m3u8
-#EXTINF:-1,Channel 0006
-https://playlist.ssyar.workers.dev/06.m3u8
-#EXTINF:-1,Channel 0007
-https://playlist.ssyar.workers.dev/07.m3u8
-#EXTINF:-1,Channel 0008
-https://playlist.ssyar.workers.dev/08.m3u8
-#EXTINF:-1,Channel 0009
-https://playlist.ssyar.workers.dev/09.m3u8
 #EXTINF:-1,Channel 0010
 https://playlist.ssyar.workers.dev/10.m3u8
 #EXTINF:-1,Channel 0011
@@ -99,4 +81,3 @@ https://playlist.ssyar.workers.dev/48.m3u8
 https://playlist.ssyar.workers.dev/49.m3u8
 #EXTINF:-1,Channel 0050
 https://playlist.ssyar.workers.dev/50.m3u8
-
