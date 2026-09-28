@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1,Hindi: Bigg Boss 24x7 HD
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/1075804.ts
+#EXTINF:-1,Bigg Boss OTT
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/995683.ts
+#EXTINF:-1,Telugu: Bigg Boss 24x7
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/1075807.ts
+#EXTINF:-1,Malayalam: Bigg Boss 24x7 
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/1075810.ts
+#EXTINF:-1,Bangla: Bigg Boss 24x7
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/1075813.ts
+#EXTINF:-1,Tamil: Bigg Boss 24x7
+http://geotv.space:8880/live/4bf35fa7/9bb33be4/1075816.ts
+
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Movies",B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 
