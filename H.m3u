@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="local.star-sports-1" tvg-name="Star Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v",Star Sports 1
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tinyurl.com/mr2dec8v",Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports.cn" tvg-name="Star Sports 2" tvg-logo="https://tinyurl.com/mr2dec8v",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="https://tinyurl.com/mr2dec8v",Star Gold 2
 http://107.167.16.138/stargold2/index.m3u8?token=test
