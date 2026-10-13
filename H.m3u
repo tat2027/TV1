@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
