@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="local.a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="635" group-title="Sports",A Sports HD
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://tinyurl.com/mr2dec8v",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 
