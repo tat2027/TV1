@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" tvg-logo="https://tinyurl.com/mr2dec8v",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?sid=HUi0vcTjHEKtrDGtGujL8Q
 
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made in Hollywood" tvg-logo="https://tinyurl.com/mr2dec8v",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
