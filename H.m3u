@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Cowboy Movie Channel" tvg-name="Cowboy Movie Channel" tvg-logo="https://tinyurl.com/mr2dec8v",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
 #EXTINF:-1 tvg-id="local.318535d9c7c4" tvg-name="Colors Cineplex [UK]" tvg-logo="https://tinyurl.com/mr2dec8v",Colors Cineplex [UK]
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
