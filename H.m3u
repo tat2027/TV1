@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="local.005ec127787c" tvg-name="XXTreme Jobs Hindi" tvg-logo="https://tinyurl.com/mr2dec8v",XXTreme Jobs Hindi
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
 
 #EXTINF:-1 tvg-id="local.d163ab580e17" tvg-name="Xtream Sports" tvg-logo="https://tinyurl.com/mr2dec8v",Xtream Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
