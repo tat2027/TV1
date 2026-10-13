@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://tinyurl.com/mr2dec8v",HUM TV
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="Cowboy Movie Channel" tvg-name="Cowboy Movie Channel" tvg-logo="https://tinyurl.com/mr2dec8v",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
