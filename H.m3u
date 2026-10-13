@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://tinyurl.com/mr2dec8v",The Walking Dead Universe
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club 2" tvg-logo="https://tinyurl.com/mr2dec8v",The Movie Club 2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
