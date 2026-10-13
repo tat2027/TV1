@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="local.a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="635" group-title="Sports",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
