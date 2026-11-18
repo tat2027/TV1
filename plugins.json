@@ -1,0 +1,24 @@
+[
+  {
+    "version": 16,
+    "internalName": "Rate",
+    "name": "All4U Rate",
+    "pluginClassName": "com.allforu.RatePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v16.cs3",
+    "description": "All4U Rate - Like, dislike & 1-5 star rate every AllForU plugin (live community scores, premium ratings page)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-aff5de07aca8e24cf2c0ebe0e1954c64c589f1ccde67fbae5c281e8ef4af2e75",
+    "fileSize": 70210,
+    "repositoryName": "AllForU"
+  }
+]
